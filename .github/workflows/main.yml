@@ -46,4 +46,4 @@ jobs:
         username: u827606196.github
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./build/
-        server-dir: /
+        server-dir: public_html/
