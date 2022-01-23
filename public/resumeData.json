@@ -2,9 +2,9 @@
   "main": {
     "name": "Matheus Bitarães",
     "occupation": "Systems Engineer",
-    "description": "I am a Systems Engineer insterested on solving problems",
-    "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "description": "I am a curious person, passionate about music and solving problems",
+    "image": "profile.JPG",
+    "bio": "I am a deadline-oriented Systems Engineer, with fast learning. I had already lived and studied abroad (Australia) and had worked on global companies (with international travels), dealing with cooworkers from Italy, USA and Argentina. I am currently doing my master's degree in Computational Intelligence at UFMG - Universidade Federal de Minas Gerais. I am developing a system of algorithmic musical improvisation called AI Hero. It uses Generative Adversarial Networks and Evolutionary computing for creating musical melodies",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "matheusbitaraesdenovaes@gmail.com",
     "phone": "+55 31 99485-1781",
@@ -12,7 +12,7 @@
       "city": "Belo Horizonte",
       "state": "Minas Gerais"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.bitaraes.com.br",
     "resumedownload": "documents/CV_Matheus_Bitaraes__English_.pdf",
     "social": [
       {
@@ -163,23 +163,21 @@
     "projects": [
       {
         "title": "AI Hero",
-        "category": "It is a ",
-        "image":""
+        "category": "An algorithmic music combosition system",
+        "image":"aihero.png",
+        "url": "https://aihero.bitaraes.com.br"
       },
       {
         "title": "Southland Merchands Website",
-        "category": "",
-        "image":""
+        "category": "Developed with Gatsby and with integration with Medium.",
+        "image":"southlandmerchants.png",
+        "url": "https://www.southlandmerchants.com.au/"
       },
       {
         "title": "Ana Detomi Website",
-        "category": "",
-        "image":""
-      },
-      {
-        "title": "AI Hero",
-        "category": "",
-        "image":""
+        "category": "Devoped with NextJs",
+        "image":"anadetomi.png",
+        "url": "https://anadetomi.com.br/"
       }
     ]
   },
