@@ -4,6 +4,7 @@ class Resume extends Component {
   render() {
 
     if(this.props.data){
+      // eslint-disable-next-line
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>
@@ -16,6 +17,7 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
+      // eslint-disable-next-line
       var skills = this.props.data.skills.map(function(skills){
         var className = 'bar-expand '+skills.name.toLowerCase();
         return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
