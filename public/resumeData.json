@@ -75,7 +75,7 @@
         "company": "Americanas SA",
         "title": "Back End Software Engineer",
         "years": "2021 - present",
-        "description": " - Responsive for implementing solutions for enhancing user experience in Americanas' search engine. Americanas S.A is one of the biggest retail companies in South America.",
+        "description": "Responsive for implementing solutions for enhancing user experience in Americanas' search engine. Americanas S.A is one of the biggest retail companies in South America.",
         "technologies": ["Java", "Springboot", "Python", "Kubernetes", "Docker", "Terraform", "Solr", "Gitlab", "AWS Cloud", "Google Cloud"]
       },
       {
@@ -89,14 +89,14 @@
         "company": "FCA - Fiat Chrysler Automobiles",
         "title": "Global Innovation Analyst",
         "years": "2018 - 2019",
-        "description": " - Approval on concurred internal process\n - Responsible for researching, planning, developing, constructing prototypes and Proof-of-Concepts of innovative products according the company global innovation plan.",
+        "description": "Approval on concurred internal process. Responsible for researching, planning, developing, constructing prototypes and Proof-of-Concepts of innovative products according the company global innovation plan.",
         "technologies": ["Python", "Matlab", "Simulink"]
       },
       {
         "company": "FCA - Fiat Chrysler Automobiles",
         "title": "Mopar Junior Analyst",
         "years": "2016 - 2018",
-        "description": " - Participation on global integration projects and global vehicles developments (on spare parts infrastructure standpoint).\n",
+        "description": "Participation on global integration projects and global vehicles developments (on spare parts infrastructure standpoint).",
         "technologies": ["Python", "Matlab", "Simulink"]
       },
       {
