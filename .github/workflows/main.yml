@@ -5,7 +5,7 @@ name: Build and Deploy on website Cpanel (via ftp)
 # Controls when the action will run. 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   # Triggers the workflow on push or pull request events but only for the main branch
   # schedule:
   #     - cron:  '0 5,10,15,20,0 * * *'
