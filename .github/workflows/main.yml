@@ -5,6 +5,7 @@ name: Build and Deploy on website Cpanel (via ftp)
 # Controls when the action will run. 
 on:
   push:
+    branches: [ master ]
   # Triggers the workflow on push or pull request events but only for the main branch
   # schedule:
   #     - cron:  '0 5,10,15,20,0 * * *'
@@ -37,7 +38,7 @@ jobs:
       run: npm install
 
     - name: Build
-      run: npm run build
+      run: npm build
 
     - name: 📂 Sync files in website Cpanel via FTP
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
@@ -45,5 +46,5 @@ jobs:
         server: ftp.bitaraes.com.br
         username: u827606196.github
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./build/
+        local-dir: build/
         server-dir: public_html/
