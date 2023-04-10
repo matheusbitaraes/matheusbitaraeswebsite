@@ -66,7 +66,13 @@
         "title": "Software Engineer",
         "years": "2022 - 2023",
         "description": "Worked on scoping and implementing multiple different projects with the team and product manager. Applied different design patterns and architectures to the codebase to make it easier to test and add new features. Worked with following stack: Node.js, Vue.js, PostgreSQL and mongodb. Worked building an AI content generation platform using GPT networks for various types of content such as blog posts and product descriptions.",
-        "technologies": ["Vue.js", "Node.js", "MongoDB", "PostgreSQL"]
+        "technologies": [
+          "Vue.js",
+          "Javascript",
+          "Node.js",
+          "MongoDB",
+          "PostgreSQL"
+        ]
       },
       {
         "company": "Americanas SA",
