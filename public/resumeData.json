@@ -2,9 +2,9 @@
   "main": {
     "name": "Matheus",
     "occupation": "Software Engineer, Msc in Computational Intelligence",
-    "description": "I am a curious person, passionate about music and solving problems",
+    "description": "passionate about music and solving problems",
     "image": "profile.JPG",
-    "bio": "I am a deadline-oriented Systems Engineer, with fast learning. I had already lived and studied abroad (Australia) and had worked on global companies (with international travels), dealing with cooworkers from Italy, USA and Argentina. I am currently doing my master's degree in Computational Intelligence at UFMG - Universidade Federal de Minas Gerais. I am developing a system of algorithmic musical improvisation called AI Hero. It uses Generative Adversarial Networks and Evolutionary computing for creating musical melodies",
+    "bio": "I'm a deadline-oriented Systems Engineer with experience working on global companies, dealing with coworkers from different countries. In my last job, I worked on multiple projects, applying different design patterns and architectures to the codebase to make it easier to test and add new features. My tech stack includes mainly Java, Python, Javascript, Node.js, Vue.js, React, Docker, Kubernetes, AWS, Google Cloud, PostgreSQL, and Mongodb. I hold a Masters in Engineering (Computational Intelligence), where my research focused on Algorithmic Music Generation. My thesis explored using Genetic Algorithms and Generative Adversarial Networks (GANs) for creating melodies with specific harmonic functions. Additionally, I published an article on the use of data augmentation strategies to improve the quality of GAN-based musical melody generators. Through my studies, I have developed expertise in artificial intelligence, machine learning, and music theory, which I'm passionate about combining to explore new avenues in the emerging field of algorithmic art. Thanks for checking out my portfolio website, and feel free to contact me if you have any questions or opportunities.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "matheusbitaraesdenovaes@gmail.com",
     "phone": "+55 31 99485-1781",
