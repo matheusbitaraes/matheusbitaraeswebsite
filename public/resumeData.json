@@ -37,9 +37,9 @@
     "education": [
       {
         "school": "UFMG - Universidade Federal de Minas Gerais (Brazil)",
-        "degree": "Masters in Computational Intelligenc",
+        "degree": "Masters in Computational Intelligence",
         "graduated": "In progress",
-        "description": "Researching the use of machine learning (GANs) combined with evolutionary computing algorithms for generating a music composition and improvisation system called AI Hero."
+        "description": "Masters in Engineering (Computational Intelligence). Research field: Algorithmic Music Generation.\nMy thesis explored the use of Genetic Algorithms and Generative Adversarial Networks (GANs) for creating melodies with specific harmonic functions, using a weighted sum of heuristic methods to evaluate quality.\nIn addition, I have published an article on the use of data augmentation strategies to improve the quality of GAN-based musical melody generators. Through my research, I have developed expertise in artificial intelligence, machine learning, and music theory.\nOverall, my studies have allowed me to combine my passion for music with my interest in technology and AI, leading me to explore new avenues in the emerging field of algorithmic art."
       },
       {
         "school": "UFMG - Universidade Federal de Minas Gerais (Brazil)",
@@ -150,11 +150,11 @@
     "skills": [
       {
         "name": "Git",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "Java",
-        "level": "55%"
+        "level": "70%"
       },
       {
         "name": "React",
