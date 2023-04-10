@@ -1,7 +1,7 @@
 {
   "main": {
-    "name": "Matheus Bitarães",
-    "occupation": "Systems Engineer",
+    "name": "Matheus",
+    "occupation": "Software Engineer, Msc in Computational Intelligence",
     "description": "I am a curious person, passionate about music and solving problems",
     "image": "profile.JPG",
     "bio": "I am a deadline-oriented Systems Engineer, with fast learning. I had already lived and studied abroad (Australia) and had worked on global companies (with international travels), dealing with cooworkers from Italy, USA and Argentina. I am currently doing my master's degree in Computational Intelligence at UFMG - Universidade Federal de Minas Gerais. I am developing a system of algorithmic musical improvisation called AI Hero. It uses Generative Adversarial Networks and Evolutionary computing for creating musical melodies",
@@ -15,16 +15,6 @@
     "website": "http://www.bitaraes.com.br",
     "resumedownload": "documents/CV_Matheus_Bitaraes__English_.pdf",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/matheusbitaraes",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/matheusbitaraes",
-        "className": "fa fa-twitter"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/matheus-bitar%C3%A3es-de-novaes-3001b874/",
@@ -72,18 +62,47 @@
     ],
     "work": [
       {
+        "company": "Draft (fka Contentfly)",
+        "title": "Software Engineer",
+        "years": "2022 - 2023",
+        "description": "Worked on scoping and implementing multiple different projects with the team and product manager. Applied different design patterns and architectures to the codebase to make it easier to test and add new features. Worked with following stack: Node.js, Vue.js, PostgreSQL and mongodb. Worked building an AI content generation platform using GPT networks for various types of content such as blog posts and product descriptions.",
+        "technologies": ["Vue.js", "Node.js", "MongoDB", "PostgreSQL"]
+      },
+      {
         "company": "Americanas SA",
         "title": "Back End Software Engineer",
         "years": "2021 - present",
         "description": "Responsive for implementing solutions for enhancing user experience in Americanas' search engine. Americanas S.A is one of the biggest retail companies in South America.",
-        "technologies": ["Java", "Springboot", "Python", "Kubernetes", "Docker", "Terraform", "Solr", "Gitlab", "AWS Cloud", "Google Cloud"]
+        "technologies": [
+          "Java",
+          "Springboot",
+          "Python",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Solr",
+          "Gitlab",
+          "AWS Cloud",
+          "Google Cloud"
+        ]
       },
       {
         "company": "Omnilogic SA",
         "title": "Full Stack Developer - Squad Lead",
         "years": "2019 - 2021",
         "description": "Responsive for technically leading a squad aimed to maintain and evolve company products",
-        "technologies": ["Java", "Javascript", "React", "Graphql", "Elasticsearch", "Docker", "Kubernets", "Scala", "SQL", "Mongodb"]
+        "technologies": [
+          "Java",
+          "Javascript",
+          "React",
+          "Graphql",
+          "Elasticsearch",
+          "Docker",
+          "Kubernets",
+          "Scala",
+          "SQL",
+          "Mongodb"
+        ]
       },
       {
         "company": "FCA - Fiat Chrysler Automobiles",
@@ -164,19 +183,19 @@
       {
         "title": "AI Hero",
         "category": "An algorithmic music combosition system",
-        "image":"aihero.png",
+        "image": "aihero.png",
         "url": "http://aihero.bitaraes.com.br"
       },
       {
         "title": "Southland Merchands Website",
         "category": "Developed with Gatsby and with integration with Medium.",
-        "image":"southlandmerchants.png",
+        "image": "southlandmerchants.png",
         "url": "https://www.southlandmerchants.com.au/"
       },
       {
         "title": "Ana Detomi Website",
         "category": "Developed with NextJs",
-        "image":"anadetomi.png",
+        "image": "anadetomi.png",
         "url": "https://anadetomi.com.br/"
       }
     ]
