@@ -4,7 +4,7 @@
     "occupation": "Software Engineer, MSc in Computational Intelligence",
     "description": "passionate about music and solving problems",
     "image": "profile.JPG",
-    "bio": "I'm a deadline-oriented Systems Engineer with experience working on global companies and dealing with coworkers from different countries. In my last job, I worked on multiple projects, applying different design patterns and architectures to the codebase to make it easier to test and add new features. My tech stack includes mainly Java, Python, Javascript, Node.js, Vue.js, React, Docker, Kubernetes, AWS, Google Cloud, PostgreSQL, and Mongodb. I hold a Masters in Engineering (Computational Intelligence), where my research focused on Algorithmic Music Generation. My thesis explored using Genetic Algorithms and Generative Adversarial Networks (GANs) for creating melodies with specific harmonic functions. Additionally, I published an article on the use of data augmentation strategies to improve the quality of GAN-based musical melody generators. Through my studies, I have developed expertise in artificial intelligence, machine learning, and music theory, which I'm passionate about combining to explore new avenues in the emerging field of algorithmic art. Thanks for checking out my portfolio website, and feel free to contact me if you have any questions or opportunities.",
+    "bio": "I'm a deadline-oriented Systems Engineer with experience working on global companies and dealing with coworkers from different countries. <br> My tech stack includes mainly <b>Java, Python, Javascript, Node.js, Vue.js, React, Docker, Kubernetes, AWS, Google Cloud, PostgreSQL, and Mongodb </b>. <br> I hold a Masters in Engineering (Computational Intelligence). My research focused on Algorithmic Music Generation. My thesis explored using Genetic Algorithms and Generative Adversarial Networks (GANs) for creating melodies with specific harmonic functions. Additionally, I published an article on the use of data augmentation strategies to improve the quality of GAN-based musical melody generators.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "matheusbitaraesdenovaes@gmail.com",
     "phone": "+55 31 99485-1781",
@@ -39,7 +39,7 @@
         "school": "UFMG - Universidade Federal de Minas Gerais (Brazil)",
         "degree": "Masters in Computational Intelligence",
         "graduated": "2023",
-        "description": "Masters in Engineering (Computational Intelligence). Research field: Algorithmic Music Generation.\nMy thesis explored the use of Genetic Algorithms and Generative Adversarial Networks (GANs) for creating melodies with specific harmonic functions, using a weighted sum of heuristic methods to evaluate quality.\nIn addition, I have published an article on the use of data augmentation strategies to improve the quality of GAN-based musical melody generators. Through my research, I have developed expertise in artificial intelligence, machine learning, and music theory.\nOverall, my studies have allowed me to combine my passion for music with my interest in technology and AI, leading me to explore new avenues in the emerging field of algorithmic art."
+        "description": "Masters in Engineering (Computational Intelligence). Research field: <b>Algorithmic Music Generation.</b><br/>My thesis explored the use of Genetic Algorithms and Generative Adversarial Networks (GANs) for creating melodies with specific harmonic functions, using a weighted sum of heuristic methods to evaluate quality.\n In addition, I have published an article on the use of data augmentation strategies to improve the quality of GAN-based musical melody generators. Through my research, I have developed expertise in artificial intelligence, machine learning, and music theory.\nOverall, my studies have allowed me to combine my passion for music with my interest in technology and AI, leading me to explore new avenues in the emerging field of algorithmic art."
       },
       {
         "school": "UFMG - Universidade Federal de Minas Gerais (Brazil)",
@@ -51,7 +51,7 @@
         "school": "QUT - Queensland University of Technology (Australia)",
         "degree": "Interchange Engineering Program",
         "graduated": "2015",
-        "description": "10 months studying Engineering in Australia by program Science Without Borders. Learned programming languages such as python, c# e SQL. Role of Project Manager in a team with 8 students with the objective of developing a UAV (unmanned aerial vehicle) using Systems Engineering and project managing methods. At the end of the project, the UAV could perform with 90% of the objectives with success. Demonstration video available in: https://youtu.be/mdGK8ZmwnYk."
+        "description": "10 months studying Engineering in Australia by program Science Without Borders. Learned programming languages such as python, c# e SQL. Role of Project Manager in a team with 8 students with the objective of developing a UAV (unmanned aerial vehicle) using Systems Engineering and project managing methods. At the end of the project, the UAV could perform with 90% of the objectives with success. Demonstration video available <a href='https://youtu.be/mdGK8ZmwnYk' target='_blank' >here</a>."
       },
       {
         "school": "CEFET MG - Centro Federal de Educação Tecnológica (Brazil)",
@@ -65,7 +65,7 @@
         "company": "Draft (fka Contentfly)",
         "title": "Software Engineer",
         "years": "2022 - 2023",
-        "description": "Worked on scoping and implementing multiple different projects with the team and product manager. Applied different design patterns and architectures to the codebase to make it easier to test and add new features. Worked with following stack: Node.js, Vue.js, PostgreSQL and mongodb. Worked building an AI content generation platform using GPT networks for various types of content such as blog posts and product descriptions.",
+        "description": "Worked building an AI content generation platform using GPT networks for various types of content such as blog posts and product descriptions.",
         "technologies": [
           "Vue.js",
           "Javascript",
@@ -122,7 +122,7 @@
         "title": "Mopar Junior Analyst",
         "years": "2016 - 2018",
         "description": "Participation on global integration projects and global vehicles developments (on spare parts infrastructure standpoint).",
-        "technologies": ["Python", "Matlab", "Simulink"]
+        "technologies": []
       },
       {
         "company": "ENACOM",
@@ -136,21 +136,19 @@
         "title": "Engineering Work Experience",
         "years": "2015 - 2015",
         "description": " - Thermal cameras fine-tuning for health analysis on crops. \n - Research and development of algorithms (in Matlab) for recognition of wildlife in thermal imaging.",
-        "technologies": ["Matlab"]
+        "technologies": []
       },
       {
         "company": "Fiat Automóveis",
         "title": "Junior Analyst",
         "years": "2012 - 2014",
-        "description": " - Participation on global projects for FIAT - CHRYSLER integration. \n - Responsible for the Spare Parts Catalog of models Fiat 500 and Freemont \n - Responsible for the Spare Parts Catalog regarding exhaust, cold start and air filter of all FIAT vehicles.",
-        "technologies": ["Matlab"]
+        "description": " - Participation on global projects for FIAT - CHRYSLER integration. \n - Responsible for the Spare Parts Catalog of models Fiat 500 and Freemont \n - Responsible for the Spare Parts Catalog regarding exhaust, cold start and air filter of all FIAT vehicles."
       },
       {
         "company": "Metalfisa",
         "title": "Technician Internship",
         "years": "2011 - 2012",
-        "description": " - Project development and maintenance.",
-        "technologies": ["Matlab"]
+        "description": " - Project development and maintenance."
       }
     ],
     "skills": [

@@ -23,7 +23,7 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>{bio}</p>
+            <p dangerouslySetInnerHTML={{__html:bio}}/>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
