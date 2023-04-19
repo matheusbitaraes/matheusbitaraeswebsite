@@ -13,7 +13,7 @@
       "state": "Minas Gerais"
     },
     "website": "http://www.bitaraes.com.br",
-    "resumedownload": "documents/CV_Matheus_Bitaraes__English_.pdf",
+    "resumedownload": "documents/matheus_resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -78,7 +78,7 @@
         "company": "Americanas SA",
         "title": "Back End Software Engineer",
         "years": "2021 - present",
-        "description": "Responsive for implementing solutions for enhancing user experience in Americanas' search engine. Americanas S.A is one of the biggest retail companies in South America.",
+        "description": "Responsible for implementing solutions for enhancing user experience in Americanas' search engine. Americanas S.A is one of the biggest retail companies in South America.",
         "technologies": [
           "Java",
           "Springboot",
@@ -96,7 +96,7 @@
         "company": "Omnilogic SA",
         "title": "Full Stack Developer - Squad Lead",
         "years": "2019 - 2021",
-        "description": "Responsive for technically leading a squad aimed to maintain and evolve company products",
+        "description": "Responsible for technically leading a squad aimed to maintain and evolve company products",
         "technologies": [
           "Java",
           "Javascript",
