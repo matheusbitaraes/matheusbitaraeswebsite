@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/matheusbitaraeswebsite/static/css/main.31d6cfe0.css",
-    "main.js": "/matheusbitaraeswebsite/static/js/main.95c277e7.js",
-    "index.html": "/matheusbitaraeswebsite/index.html",
-    "main.95c277e7.js.map": "/matheusbitaraeswebsite/static/js/main.95c277e7.js.map"
+    "main.css": "/bitaraes.com.br/static/css/main.31d6cfe0.css",
+    "main.js": "/bitaraes.com.br/static/js/main.b5c63cc0.js",
+    "index.html": "/bitaraes.com.br/index.html",
+    "main.b5c63cc0.js.map": "/bitaraes.com.br/static/js/main.b5c63cc0.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.95c277e7.js"
+    "static/js/main.b5c63cc0.js"
   ]
 }
