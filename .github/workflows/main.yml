@@ -24,10 +24,10 @@ jobs:
       matrix:
         node-version: [10.x]
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+      # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Deploy
-        run: npm run deploy
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Set up Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
