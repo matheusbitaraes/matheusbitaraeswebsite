@@ -186,12 +186,12 @@ const resumeData = {
         "projects": [
             {
                 "title": "AI Hero",
-                "category": "An algorithmic music combosition system",
+                "category": "An algorithmic music composition system",
                 "image": "aihero.png",
                 "url": "https://aihero.bitaraes.com.br"
             },
             {
-                "title": "Southland Merchands Website",
+                "title": "Southland Merchants Website",
                 "category": "Developed with Gatsby and with integration with Medium.",
                 "image": "southlandmerchants.png",
                 "url": "https://www.southlandmerchants.com.au/"
