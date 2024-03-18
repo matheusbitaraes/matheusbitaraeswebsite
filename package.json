@@ -1,7 +1,7 @@
 {
   "name": "matheus-bitaraes-website",
   "version": "0.1.0",
-  "homepage": "matheusbitaraes.github.io",
+  "homepage": "matheusbitaraes.github.io/matheusbitaraeswebsite/",
   "dependencies": {
     "jquery": "^3.7.1",
     "react": "^18.2.0",
